@@ -7,7 +7,7 @@ Exploring AI-driven drug discovery, virtual screening, and CRISPR-Cas9 technolog
 
 🔬 Projects in progress:
 - AI-based virtual screening for novel drug targets 🧬
-- CRISPR-Cas9 biomarkers discovery 🔎
+- CRISPR-Cas9 based off-target prediction
 - ML-based off-target prediction 🚀
 
 📚 Passionate about applying AI/ML in life sciences to accelerate research.
