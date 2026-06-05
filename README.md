@@ -3,7 +3,6 @@ Exploring AI-driven drug discovery, virtual screening, and CRISPR-Cas9 technolog
 💻 Currently learning:
 - Python | Biopython
 - Neural Networks | Machine Learning
-- Molecular Docking | Virtual Screening
 
 🔬 Projects in progress:
 - AI-based virtual screening for novel drug targets 🧬
