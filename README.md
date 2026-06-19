@@ -12,4 +12,4 @@ Exploring AI-driven drug discovery, virtual screening, and CRISPR-Cas9 technolog
 📚 Passionate about applying AI/ML in life sciences to accelerate research.
 
 📫 Reach me: LinkedIn https://www.linkedin.com/in/ankita-khobrekar-469318202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-| Email: ankitaskhobrekar174@gmail.com
+Email: ankitaskhobrekar174@gmail.com
